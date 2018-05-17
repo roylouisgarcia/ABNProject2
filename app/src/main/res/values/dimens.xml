@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Team name text size -->
+    <dimen name="team_name_text_size">14sp</dimen>
+    <!-- Team score text size -->
+    <dimen name="team_score_text_size">56sp</dimen>
+    <!-- Button layout margin size -->
+    <dimen name="button_layout_margin">8dp</dimen>
+    <!-- Team Scores Divider size -->
+    <dimen name="team_scores_divider_size">1dp</dimen>
+    <!-- App Title text size -->
+    <dimen name="app_title_text_size">26sp</dimen>
+    <!-- App name bar -->
+    <dimen name="app_title_padding">5dp</dimen>
+    <!-- App Title top margin -->
+    <dimen name="app_title_margin">10dp</dimen>
+    <!-- Team icon margin -->
+    <dimen name="team_icon_margin">20dp</dimen>
+</resources>
