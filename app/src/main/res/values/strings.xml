@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Basketball Scorer</string>
+    <string name="app_name">National Basketball Insectiation Scorer</string>
     <string name="team_a_text">Golden Ants</string>
     <string name="team_b_text">Crimson Bugs</string>
     <string name="button_text_three_points">+3 Points</string>

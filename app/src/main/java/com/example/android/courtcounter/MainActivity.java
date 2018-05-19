@@ -8,8 +8,8 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
 
-    int scoreTeamA = 0;
-    int scoreTeamB = 0;
+    int scoreTeamA;
+    int scoreTeamB;
     static final String SCOREA = "Score for Team A";
     static final String SCOREB = "Score for Team B";
 
