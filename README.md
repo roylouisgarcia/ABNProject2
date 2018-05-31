@@ -11,4 +11,4 @@ Screen Capture of original app that I created while on following the lectures pr
 ![gimp screenshot](gimp.jpg)
 
 ## Screen Recording of the resulting app
-![screenshot gif](ss.gif)
+<img src="ss.gif" alt="screen record of the app" width="400px" />
